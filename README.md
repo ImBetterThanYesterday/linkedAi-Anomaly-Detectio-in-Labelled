@@ -1,1 +1,1 @@
-# linkedAi-Anomaly-Detectio-in-Labelled
+# linkedAI-Anomaly-Detection
